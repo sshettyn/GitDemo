@@ -16,4 +16,8 @@ class MainActivity : AppCompatActivity() {
   fun sample(){
 
   }
+
+  fun sample2(){
+
+  }
 }
