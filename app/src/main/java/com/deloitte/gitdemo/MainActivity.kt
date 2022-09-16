@@ -11,9 +11,13 @@ class MainActivity : AppCompatActivity() {
     //comment 2
     //comment 3
   }
-
+  //test cherry pick
   //adding sample
   fun sample(){
+
+  }
+
+  fun sample1(){
 
   }
 }
