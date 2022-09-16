@@ -11,4 +11,9 @@ class MainActivity : AppCompatActivity() {
     //comment 2
     //comment 3
   }
+
+  //adding sample
+  fun sample(){
+
+  }
 }
